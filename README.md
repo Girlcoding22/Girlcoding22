@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Giovanna Gonzalez Rojas, I am a first year in college and an intended Computer Science student at UC Berkeley. 
+- 👋 Hello, my name is Giovanna Gonzalez Rojas, I am a second year in college and an intended Computer Science student at UC Berkeley. 
 
 - 👀 I’m interested in music, creating and learning about video games, and computer programming.
 
