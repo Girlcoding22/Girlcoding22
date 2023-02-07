@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in music, creating and learning about video games, and computer programming.
 
-- 🌱 I’m currently learning how to use Unity for video game programming, and taking a course in Data Structures using Java.
+- 🌱 I’m currently learning how to use Unity for video game programming
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: You can reach me on <a href="https://www.linkedin.com/in/giovanna-gonzalez-rojas-b5b793181?trk=people-guest_people_search-card">Linkedin</a>.
 
