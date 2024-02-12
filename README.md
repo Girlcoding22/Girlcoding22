@@ -1,8 +1,8 @@
 - 👋 Hello, my name is Giovanna Gonzalez Rojas, I am a third year in college and an intended Data Science student at UC Berkeley. 
 
-- 👀 I’m interested in Music, creating and learning about video games, and computer programming.
+- 👀 I’m interested in creating and learning about video games.
 
-- 🌱 I’m currently learning how to use R studio and Unity.
+- 🌱 I’m currently learning how to use AMPL and Unity.
 <!--- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: You can reach me on <a href="https://www.linkedin.com/in/giovanna-gonzalez-rojas-b5b793181?trk=people-guest_people_search-card">Linkedin</a>.
 
