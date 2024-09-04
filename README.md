@@ -1,6 +1,6 @@
-- 👋 Hello, my name is Giovanna Gonzalez Rojas, I am a third year in college and an intended Data Science student at UC Berkeley. 
+- 👋 Hello, my name is Giovanna Gonzalez Rojas, I am a Fourth year in college and an intended Data Science student at UC Berkeley. 
 
-- 👀 I’m interested in creating and learning about video games.
+- 👀 I’m interested in creating/learning about video games.
 
 - 🌱 I’m currently learning how to use AMPL and Unity.
 <!--- 💞️ I’m looking to collaborate on ... -->
